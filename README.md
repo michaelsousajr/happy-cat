@@ -1,4 +1,19 @@
 # happy-cat
+                \`*-.        
+                 )  _\`-.     
+                .  : \`. .    
+                : _   '  \   
+                ; *\` _.   \`*-_
+                \`-.-'          \`-.
+                  ;       \`       \`. 
+                  :.       .        \\
+                  . \\  .   :   .-'   .
+                  '  \`+.;  ;  '      :
+                  :  '  |    ;       ;-.
+                  ; '   : :\`-:     _.\`* ;
+               .*' /  .*' ; .*\`- +'  \`*'
+               \`*-*   \`*-*  \`*-*\''
+
 Script of a cat in your terminal to motivate you!
 
 If you want to have it appear on each new tab/window instance:
